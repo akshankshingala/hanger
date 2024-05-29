@@ -1,16 +1,4 @@
-# hanger
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/akshankshingala/hanger/assets/150037897/8b2600a8-7c69-48ac-9a37-c683ae6c7a40" width="250">
+<img src="https://github.com/akshankshingala/hanger/assets/150037897/8a02bb65-2dd5-4dda-b200-ebdb054f9bb8" width="250">
+<img src="https://github.com/akshankshingala/hanger/assets/150037897/bb748635-46b6-4f3c-bcd9-5465060e2ea3" width="250">
+<img src="https://github.com/akshankshingala/hanger/assets/150037897/4b9be015-1d89-40f5-9bab-1d4070440c11" width="250">
